@@ -90,10 +90,8 @@ img {
 
 .card-flex {
   display: flex;
-  justify-content: space-around;
-  padding-top: 10px;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 .card-text {
@@ -102,5 +100,5 @@ img {
 }
 
 .card {
-  padding: 40px;
+  padding: 10px;
 }
