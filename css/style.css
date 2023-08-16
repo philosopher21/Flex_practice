@@ -109,7 +109,7 @@ img {
 }
 
 .qoute {
-  padding-top: 40px;
+  padding-top: 60px;
   padding-bottom: 40px;
   margin-top: 15px;
   height: 200px;
@@ -118,11 +118,53 @@ img {
 
 #qoute-text {
   text-align: center;
-  font-size: 36px;
+  font-size: 26px;
   font-style: italic;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 #qouter-n {
   text-align: right;
   padding-right: 10px;
+  padding-top: 20px;
+}
+
+.call-to-action {
+  height: 200px;
+}
+
+.call-rectangle {
+  width: 800px;
+  height: 120px;
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 90px;
+  margin-left: 300px;
+  border-radius: 5px;
+}
+
+#sign-up-btn {
+  background-color: #3882f6;
+  padding: 5px 20px 5px 20px;
+  border-color: white;
+  border-radius: 4px;
+}
+
+.inner-text {
+  text-decoration: none;
+  color: white;
+}
+
+.footer {
+  height: 90px;
+  background-color: #1f2937;
+}
+
+.footer-text {
+  text-align: center;
+  color: white;
+  padding-top: 40px;
 }
