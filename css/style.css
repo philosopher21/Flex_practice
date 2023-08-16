@@ -102,3 +102,27 @@ img {
 .card {
   padding: 10px;
 }
+
+.qoute-flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.qoute {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 15px;
+  height: 200px;
+  background-color: #e5e7eb;
+}
+
+#qoute-text {
+  text-align: center;
+  font-size: 36px;
+  font-style: italic;
+}
+
+#qouter-n {
+  text-align: right;
+  padding-right: 10px;
+}
